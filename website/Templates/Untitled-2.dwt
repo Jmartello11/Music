@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="Jcole" type="boolean" value="true" -->
+<!-- TemplateParam name="j-cole" type="boolean" value="true" -->
+<!-- TemplateParam name="the-weeknd" type="boolean" value="true" -->
+<!-- TemplateParam name="kendrick-lamar" type="boolean" value="true" -->
+<!-- TemplateParam name="eminem" type="boolean" value="true" -->
+<!-- TemplateParam name="chilidsh-gambino" type="boolean" value="true" -->
+</head>
+
+<body>
+<ul>
+  <li>
+    <a href="../index.html">
+    Home 
+    </a>
+  </li>
+  <li>
+    <a href="../j-cole/index.html">
+    J.Cole
+    </a>
+    <!-- TemplateBeginIf cond="_document['j-cole']" -->
+    <blockquote>
+      <ul>
+        <li>
+          <a href="../j-cole/the-come-up.html">
+            The Come Up
+          </a>
+        </li>
+        <li>
+          <a href="../j-cole/the-warmup.html">
+            The Warmup
+          </a>
+        </li>
+        <li>
+          <a href="../j-cole/firday-night-lights .html">
+            Friday Night Lights
+          </a>
+        </li>
+      </ul>
+    </blockquote>
+  <!-- TemplateEndIf -->  </li>
+  <li>
+    <a href="../the-weeknd/index.html">
+    The Weeknd
+    </a>
+    <!-- TemplateBeginIf cond="_document['the-weeknd']" -->
+    <blockquote>
+      <ul>
+        <li>
+          <a href="../the-weeknd/house-of-balloons.html">
+            House of Balloons
+          </a>
+        </li>
+        <li>
+          <a href="../the-weeknd/thursday.html">
+            Thursday
+          </a>
+        </li>
+      
+        <li>
+          <a href="../the-weeknd/echoes-of-silence.html">
+            Echoes of Silence
+          </a>
+        </li>
+      </ul>
+    </blockquote>
+    <!-- TemplateEndIf -->  </li>
+  <li>
+    <a href="../kendrick-lamar/index.html">
+    Kendrick Lamar 
+    </a>
+    <!-- TemplateBeginIf cond="_document['kendrick-lamar']" -->
+    <blockquote>
+      <ul>
+        <li>
+          <a href="../kendrick-lamar/section-.80.html">
+            Section.80
+          </a>
+        </li>
+        <li>
+          <a href="../kendrick-lamar/good-kid-m.a.a.d-city.html">
+            Good Kid, M.A.A.D City
+          </a>
+        </li>
+        <li>
+          <a href="../kendrick-lamar/to-pimp-a-butterfly.html">
+            To Pimp a Butterfly
+          </a>
+        </li>
+      </ul>
+    </blockquote>
+    <!-- TemplateEndIf -->  </li>
+  <li>
+    <a href="../eminem /index.html">
+    Eminem
+    </a>
+    <!-- TemplateBeginIf cond="_document['eminem']" -->
+    <blockquote>
+      <ul>
+        <li>
+          <a href="../eminem /infinite.html">
+            Infinite
+          </a>
+        </li>
+        <li>
+          <a href="../eminem /the-marshall-mather-lP.html">
+            The Marshall Mather LP
+          </a>
+        </li>
+        <li>
+          <a href="../eminem /the-slim-shady-lP .html">
+            The Slim Shady LP
+          </a>
+        </li>
+      </ul>
+    </blockquote>
+  <!-- TemplateEndIf -->  </li>
+  <li>
+    <a href="../childish-gambino/index.html">
+    Childish Gambino
+    </a>
+    <!-- TemplateBeginIf cond="_document['chilidsh-gambino']" -->
+    <blockquote>
+      <ul>
+        <li>
+          <a href="../childish-gambino/culdesac.html">
+            Culdesac
+          </a>
+        </li>
+        <li>
+          <a href="../childish-gambino/be-alone-ep.html">
+            Be Alone EP
+          </a>
+        </li>
+        <li>
+          <a href="../childish-gambino/camp .html">
+            Camp
+          </a>
+        </li>
+      </ul>
+    </blockquote>
+  <!-- TemplateEndIf -->  </li>
+</ul>
+<!-- TemplateBeginEditable name="Content" --><!-- TemplateEndEditable -->
+</body>
+</html>
